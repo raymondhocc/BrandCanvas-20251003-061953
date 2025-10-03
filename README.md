@@ -1,6 +1,6 @@
 # BrandCanvas AI
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/BrandCanvas-20251003-061953)
 
 An AI-powered platform to automate the creation of localized, brand-aligned e-commerce banners and visuals.
 
@@ -79,7 +79,7 @@ This will start the application, typically on `http://localhost:3000`. The front
 
 This project is designed for seamless deployment to the Cloudflare network.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/BrandCanvas-20251003-061953)
 
 ### Manual Deployment
 
